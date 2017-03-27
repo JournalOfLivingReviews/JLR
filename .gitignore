@@ -1,0 +1,25 @@
+# PyCharm profile stuff
+.idea
+.idea/*
+
+# Spyder IDE config files
+.spyderworkspace
+.spyderproject
+
+# Sublime IDE stuff
+*sublime-workspace
+
+# Mac system stuff
+.DS_Store
+
+# IPython
+.ipynb_checkpoints/*
+*.ipynb
+
+# Manuscript compilation files
+*_article.log
+*_article.aux
+*_article.bbl
+*_article.blg
+*_article.idx
+*_article.out
